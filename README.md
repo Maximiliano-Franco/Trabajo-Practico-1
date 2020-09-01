@@ -1,2 +1,2 @@
-# Trabajo-Practico-1
-TP1 Division 1C-UTN
+# tp_laboratorio_1
+TPs Division 1C-UTN
