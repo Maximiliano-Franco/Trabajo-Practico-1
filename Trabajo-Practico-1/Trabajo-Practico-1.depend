@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599682676 source:c:\users\maxif\desktop\facultad\programacion i\codes\tp\tp_laboratorio_1\trabajo-practico-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operations.h"
+
+1599672545 c:\users\maxif\desktop\facultad\programacion i\codes\tp\tp_laboratorio_1\trabajo-practico-1\operations.h
+	<stdio.h>
+
