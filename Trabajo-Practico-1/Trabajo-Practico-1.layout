@@ -4,11 +4,8 @@
 	<ActiveTarget name="Debug" />
 	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="5112" topLine="138" />
+			<Cursor1 position="5000" topLine="139" />
 		</Cursor>
-		<Folding>
-			<Collapse line="196" />
-		</Folding>
 	</File>
 	<File name="Operations.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
@@ -20,5 +17,5 @@
 			<Cursor1 position="1300" topLine="12" />
 		</Cursor>
 	</File>
-	<EditorTabsLayout layout="077b4a905f5d8a9b0000110100000002=*0;Trabajo-Practico-1:main.c,1;Trabajo-Practico-1:Operations.h,2;Trabajo-Practico-1:Operations.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=835;besth=384;minw=835;minh=384;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=077b4a905f5d8a9b0000110100000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+	<EditorTabsLayout layout="077da7d05f5d8b4c0000121500000002=*0;Trabajo-Practico-1:main.c,1;Trabajo-Practico-1:Operations.h,2;Trabajo-Practico-1:Operations.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=835;besth=384;minw=835;minh=384;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=077da7d05f5d8b4c0000121500000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
 </CodeBlocks_layout_file>
