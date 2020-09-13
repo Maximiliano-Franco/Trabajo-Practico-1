@@ -159,7 +159,7 @@ int main()
 
                             } else {
 
-                                printf("\n  El factorial de %f es: %i", num2, factorialNum2);
+                                printf("\n  El factorial de %f es: %i \n", num2, factorialNum2);
 
                                 }
 
